@@ -1,0 +1,291 @@
+li{
+    display: inline;
+    text-decoration: none;
+    width: 50px;
+    padding: 20px 30px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+}
+    /*Styling Groups and Jumuias*/
+    .p1{
+        text-align: center;
+        font-size: large;    
+    }
+    .p2{
+       text-align: initial;
+        width: 80%;
+        float: right;
+        position: absolute;
+        font-size: larger; 
+    }
+    .pp2{
+        text-align: center;
+        font-size: larger;
+    }
+    .p3{
+        text-align: left;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+        position: relative;
+        font-size: larger;
+    }
+    .p4{
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: larger;
+        position: relative;
+    }
+    .p5{
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: larger;
+        position: relative; 
+    }
+    .p6{
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: larger;
+        position: relative;
+    }
+    .p7{
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: larger;
+        position: relative; 
+    }
+    .p8{
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: x-large;
+        position: relative;
+    }
+    .p9{
+        text-align: center;
+        font-size: xx-large;
+        
+    }
+    .imagepmc{
+        float: left;
+        display: table-cell;
+        padding-left: 20px;
+        width: 100px;
+        height: 100px;
+        position: relative;
+    }
+    .imagemym1{
+        float: left;
+        display: table-cell;
+        padding-left: 20px;
+        width: 100px;
+        height: 100px;
+        position: relative;
+    }
+    .imageyouth{
+        float: left;
+        display: table-cell;
+        padding-left: 20px;
+        width: 100px;
+        height: 50px;
+        position: relative;
+    }
+    .imageyca{
+        float: left;
+        width: 100px;
+        height: 100px;
+        position: relative;
+        display: table-cell;
+        padding-left: 20px;
+    }
+    .imagecma1{
+        float: left;
+        width: 100px;
+        width: 100px;
+        position: relative;
+        display: table-cell;
+    }
+    .imagecwa{
+        float: left;
+        width: 100px;
+        width: 100px;
+        position: relative;
+        display: table-cell;
+        padding-left: 20px;
+    }
+    .pmctitle{
+        text-align: center;
+     padding-left: 50px;
+    }
+    .mymtitle{
+        text-align: center;
+        padding-left: 50px;
+    }
+    .youthtitle{
+        text-align: center;
+        padding-left: 30px;
+    }
+    .ycatitle{
+        text-align: center;
+        padding-left: 40px;
+    }
+    .cmatitle{
+        text-align: center;
+        padding-left: 40px;
+    }
+    .cwatitle{
+        text-align: center;
+        padding-left: 40px;
+    }
+    h1{
+        text-align: center;
+        background-color: lightcoral;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    h4{
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: xx-large;
+        
+    }
+    h5{
+        font-size: x-large;
+        background-color: lawngreen;
+    }
+    /*styling Home*/
+    .home{
+        text-align: center;
+        }
+        .m1{
+            background-color: yellowgreen;
+            font-size: xx-large;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+        }
+        .m2{
+            font-size: x-large;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            float: right;
+          text-align: center;
+        }
+        .m3{
+            text-align: center;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: larger;
+            background-color: rgb(221, 216, 169);
+        }
+        .m4{
+            font-size: xx-large;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-color:yellowgreen
+        }   
+        }
+        .m6{
+            font-size: x-large;
+           
+        }
+        .m7{
+            font-size: x-large;
+            float: right;
+            width: 50%;
+       
+        }
+        .m8{
+            font-size: x-large;
+            float: left;
+            width: 50%;
+        }
+        .m9{
+            font-size: xx-large;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        .m10{
+            font-size: xx-large;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        .m11{
+            font-size: xx-large;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-color:yellowgreen 
+        }
+        .m13{
+            font-size:large;
+            text-align: center;
+        }
+        /*styling About us*/
+         /*styling Pastrol structure*/
+         .p1{
+             align-self: center;
+             font-size: large;
+             
+         }
+         .p2{
+             float: left;
+             padding-left: 50px;
+         }
+         .pastrol1{
+             text-align: center;
+             font-size: xx-large;
+         }
+
+        
+        .imagemuragu1{
+            background-color: lavenderblush;
+            float: left;
+        }
+        /*Styling News*/
+    .news{
+        text-align: center;
+    }
+    .imagewaumini{
+        background-color: lavenderblush;
+        float: left;
+        display: table-cell;
+        position: relative;
+    }
+    .n1{
+        text-align: center;
+        font-size: large;
+        display: none;
+    }
+    .n2{
+        text-align: center;
+        font-size: large;
+    }
+    .n3{
+        text-align: center;
+        font-size: large;
+    }
+    .n4{
+        text-align: center;
+        font-size: large;
+    }
+    .n5{
+        text-align: center;
+        font-size: large; 
+    }
+    /*Styling About Us*/
+.about{
+    text-align: center;
+}
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+.pastrol{
+    text-align: center;
+}
+/*Styling Contacts*/
+.contact{
+    text-align: center;
+}
+.groups{
+    text-align: center;
+    
+}
+    
